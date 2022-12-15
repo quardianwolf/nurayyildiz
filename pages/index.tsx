@@ -61,9 +61,7 @@ export default function Home() {
                             <div className="follow">
                                 <span>Bizi Takip Et:</span>
                                 <ul>
-                                    <li><a href="#"><img className="svg" src="img/svg/social/facebook.svg" alt="" /></a></li>
-                                    <li><a href="#"><img className="svg" src="img/svg/social/twitter.svg" alt="" /></a></li>
-                                    <li><a href="#"><img className="svg insta_nav_svg" src="img/svg/social/instagram-stroke.svg" alt="" /></a></li>
+                                    <li><a href="#"><img className="svg insta_nav_svg" src="img/svg/social/instagram2.svg" alt=""  /></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -93,7 +91,7 @@ export default function Home() {
                             </div>
                         </div>
                         <div className="play_button">
-                            <a className="popup-youtube" href="https://www.youtube.com/watch?v=7e90gBu4pas"></a>
+                            <a className="popup-youtube" href=""></a>
                         </div>
                         <span className="shape1"><img className="svg anim_circle" src="img/svg/icon5.svg" alt="" /></span>
                         <span className="shape2"><img className="svg" src="img/svg/icon7.svg" alt="" /></span>
@@ -113,7 +111,7 @@ export default function Home() {
                                 <div className="left">
                                     <div className="left_inner">
                                         <div className="year">
-                                            <h3>7</h3>
+                                            <h3>4</h3>
                                             <span className="rounded"><img src="img/about/flower.png" alt="" /></span>
                                         </div>
                                         <div className="experience">
@@ -181,7 +179,7 @@ export default function Home() {
                                                     <path d="M19.5 19V13.5H28.5V19" stroke="black"></path>
                                                     <rect x="17.5" y="10.5" width="13" height="3" fill="white" stroke="black"></rect>
                                                     <path d="M15.5 27.5C17.3333 26.6667 21.4 25.1 23 25.5C25 26 27 30.5 31.5 26.5" stroke="black"></path>
-                                                    <path d="M24 34.8166C22.64 33.2166 20 34.0966 20 36.3366C20 38.5766 22.4 39.6966 24 41.2966C25.6 39.6966 28 38.5766 28 36.3366C28 34.0966 25.36 33.2166 24 34.8166Z" fill="white" stroke="black" stroke-miterlimit="10"></path>
+                                                    <path d="M24 34.8166C22.64 33.2166 20 34.0966 20 36.3366C20 38.5766 22.4 39.6966 24 41.2966C25.6 39.6966 28 38.5766 28 36.3366C28 34.0966 25.36 33.2166 24 34.8166Z" fill="white" stroke="black" strokeMiterlimit="10"></path>
                                                     <circle cx="38.5" cy="10.5" r="2" fill="#F6EBE7" stroke="black"></circle>
                                                     <circle cx="28.5" cy="2.5" r="2" fill="#F6EBE7" stroke="black"></circle>
                                                 </svg>
@@ -242,7 +240,7 @@ export default function Home() {
                                                     <path d="M19.5 19V13.5H28.5V19" stroke="black"></path>
                                                     <rect x="17.5" y="10.5" width="13" height="3" fill="white" stroke="black"></rect>
                                                     <path d="M15.5 27.5C17.3333 26.6667 21.4 25.1 23 25.5C25 26 27 30.5 31.5 26.5" stroke="black"></path>
-                                                    <path d="M24 34.8166C22.64 33.2166 20 34.0966 20 36.3366C20 38.5766 22.4 39.6966 24 41.2966C25.6 39.6966 28 38.5766 28 36.3366C28 34.0966 25.36 33.2166 24 34.8166Z" fill="white" stroke="black" stroke-miterlimit="10"></path>
+                                                    <path d="M24 34.8166C22.64 33.2166 20 34.0966 20 36.3366C20 38.5766 22.4 39.6966 24 41.2966C25.6 39.6966 28 38.5766 28 36.3366C28 34.0966 25.36 33.2166 24 34.8166Z" fill="white" stroke="black" strokeMiterlimit="10"></path>
                                                     <circle cx="38.5" cy="10.5" r="2" fill="#F6EBE7" stroke="black"></circle>
                                                     <circle cx="28.5" cy="2.5" r="2" fill="#F6EBE7" stroke="black"></circle>
                                                 </svg>
@@ -264,7 +262,7 @@ export default function Home() {
                                                     <path d="M19.5 19V13.5H28.5V19" stroke="black"></path>
                                                     <rect x="17.5" y="10.5" width="13" height="3" fill="white" stroke="black"></rect>
                                                     <path d="M15.5 27.5C17.3333 26.6667 21.4 25.1 23 25.5C25 26 27 30.5 31.5 26.5" stroke="black"></path>
-                                                    <path d="M24 34.8166C22.64 33.2166 20 34.0966 20 36.3366C20 38.5766 22.4 39.6966 24 41.2966C25.6 39.6966 28 38.5766 28 36.3366C28 34.0966 25.36 33.2166 24 34.8166Z" fill="white" stroke="black" stroke-miterlimit="10"></path>
+                                                    <path d="M24 34.8166C22.64 33.2166 20 34.0966 20 36.3366C20 38.5766 22.4 39.6966 24 41.2966C25.6 39.6966 28 38.5766 28 36.3366C28 34.0966 25.36 33.2166 24 34.8166Z" fill="white" stroke="black" strokeMiterlimit="10"></path>
                                                     <circle cx="38.5" cy="10.5" r="2" fill="#F6EBE7" stroke="black"></circle>
                                                     <circle cx="28.5" cy="2.5" r="2" fill="#F6EBE7" stroke="black"></circle>
                                                 </svg>
@@ -286,7 +284,7 @@ export default function Home() {
                                                     <path d="M19.5 19V13.5H28.5V19" stroke="black"></path>
                                                     <rect x="17.5" y="10.5" width="13" height="3" fill="white" stroke="black"></rect>
                                                     <path d="M15.5 27.5C17.3333 26.6667 21.4 25.1 23 25.5C25 26 27 30.5 31.5 26.5" stroke="black"></path>
-                                                    <path d="M24 34.8166C22.64 33.2166 20 34.0966 20 36.3366C20 38.5766 22.4 39.6966 24 41.2966C25.6 39.6966 28 38.5766 28 36.3366C28 34.0966 25.36 33.2166 24 34.8166Z" fill="white" stroke="black" stroke-miterlimit="10"></path>
+                                                    <path d="M24 34.8166C22.64 33.2166 20 34.0966 20 36.3366C20 38.5766 22.4 39.6966 24 41.2966C25.6 39.6966 28 38.5766 28 36.3366C28 34.0966 25.36 33.2166 24 34.8166Z" fill="white" stroke="black" strokeMiterlimit="10"></path>
                                                     <circle cx="38.5" cy="10.5" r="2" fill="#F6EBE7" stroke="black"></circle>
                                                     <circle cx="28.5" cy="2.5" r="2" fill="#F6EBE7" stroke="black"></circle>
                                                 </svg>
@@ -339,15 +337,15 @@ export default function Home() {
                                                     <rect x="9.5" y="18.5" width="4" height="29" rx="0.5" fill="#F6EBE7" stroke="black"></rect>
                                                     <rect x="13.5" y="5.5" width="2" height="8" rx="0.5" fill="white" stroke="black"></rect>
                                                     <path d="M9.35233 4.52505C9.41922 3.38791 10.3609 2.5 11.5 2.5C12.6391 2.5 13.5808 3.38791 13.6477 4.52505L14.4386 17.9706C14.4555 18.2578 14.2271 18.5 13.9394 18.5H9.06055C8.77287 18.5 8.54452 18.2578 8.56141 17.9706L9.35233 4.52505Z" fill="#F6EBE7" stroke="black"></path>
-                                                    <rect x="16.25" y="8.25" width="2.5" height="0.5" fill="black" stroke="black" stroke-width="0.5"></rect>
-                                                    <rect x="16.25" y="6.25" width="2.5" height="0.5" fill="black" stroke="black" stroke-width="0.5"></rect>
-                                                    <rect x="16.25" y="10.25" width="2.5" height="0.5" fill="black" stroke="black" stroke-width="0.5"></rect>
-                                                    <rect x="16.25" y="12.25" width="2.5" height="0.5" fill="black" stroke="black" stroke-width="0.5"></rect>
-                                                    <rect x="32.25" y="32.25" width="0.5" height="3.5" fill="black" stroke="black" stroke-width="0.5"></rect>
-                                                    <rect x="29.1584" y="31.3595" width="0.5" height="4.1606" transform="rotate(30 29.1584 31.3595)" fill="black" stroke="black" stroke-width="0.5"></rect>
-                                                    <rect x="26.2776" y="29.7809" width="0.5" height="4.28339" transform="rotate(43.0533 26.2776 29.7809)" fill="black" stroke="black" stroke-width="0.5"></rect>
-                                                    <rect x="-0.0915063" y="0.341506" width="0.5" height="4.1606" transform="matrix(-0.866025 0.5 0.5 0.866025 35.5247 31.1095)" fill="black" stroke="black" stroke-width="0.5"></rect>
-                                                    <rect x="-0.0120102" y="0.353349" width="0.5" height="4.28339" transform="matrix(-0.730719 0.682678 0.682678 0.730719 38.4055 29.531)" fill="black" stroke="black" stroke-width="0.5"></rect>
+                                                    <rect x="16.25" y="8.25" width="2.5" height="0.5" fill="black" stroke="black" strokeWidth="0.5"></rect>
+                                                    <rect x="16.25" y="6.25" width="2.5" height="0.5" fill="black" stroke="black" strokeWidth="0.5"></rect>
+                                                    <rect x="16.25" y="10.25" width="2.5" height="0.5" fill="black" stroke="black" strokeWidth="0.5"></rect>
+                                                    <rect x="16.25" y="12.25" width="2.5" height="0.5" fill="black" stroke="black" strokeWidth="0.5"></rect>
+                                                    <rect x="32.25" y="32.25" width="0.5" height="3.5" fill="black" stroke="black" strokeWidth="0.5"></rect>
+                                                    <rect x="29.1584" y="31.3595" width="0.5" height="4.1606" transform="rotate(30 29.1584 31.3595)" fill="black" stroke="black" strokeWidth="0.5"></rect>
+                                                    <rect x="26.2776" y="29.7809" width="0.5" height="4.28339" transform="rotate(43.0533 26.2776 29.7809)" fill="black" stroke="black" strokeWidth="0.5"></rect>
+                                                    <rect x="-0.0915063" y="0.341506" width="0.5" height="4.1606" transform="matrix(-0.866025 0.5 0.5 0.866025 35.5247 31.1095)" fill="black" stroke="black" strokeWidth="0.5"></rect>
+                                                    <rect x="-0.0120102" y="0.353349" width="0.5" height="4.28339" transform="matrix(-0.730719 0.682678 0.682678 0.730719 38.4055 29.531)" fill="black" stroke="black" strokeWidth="0.5"></rect>
                                                 </svg>
                                                     <div className="title">
                                                         <h3>Dipliner</h3>
@@ -979,18 +977,18 @@ export default function Home() {
                                 <div className="modalbox_contact">
                                     <div className="tonni_tm_modalbox_contact">
                                         <div className="contact_title">
-                                            <span>Contact</span>
-                                            <h3>Get in Touch</h3>
+                                            <span>İletişim</span>
+                                            <h3>Randevu Al</h3>
                                         </div>
                                         <div className="fields">
                                             <form action="/" method="post" className="contact_form" id="contact_form">
                                                 <div className="returnmessage" data-success="Your message has been received, We will contact you soon.">
                                                 </div>
-                                                <div className="empty_notice"><span>Please Fill Required Fields</span></div>
+                                                <div className="empty_notice"><span>Lütfen gerekli alanları doldurunuz</span></div>
                                                 <div className="first">
                                                     <ul>
                                                         <li>
-                                                            <input id="name" type="text" placeholder="Name" />
+                                                            <input id="name" type="text" placeholder="İsim" />
                                                         </li>
                                                         <li>
                                                             <input id="email" type="text" placeholder="Email" />
@@ -1001,7 +999,7 @@ export default function Home() {
                                                     <textarea id="message" placeholder="Message"></textarea>
                                                 </div>
                                                 <div className="tonni_tm_button">
-                                                    <a id="send_message" href="#">Send Message <img className="svg"
+                                                    <a id="send_message" href="#">Gönder <img className="svg"
                                                         src="img/svg/arrow-right.svg" alt="" /></a>
                                                 </div>
 
@@ -1013,11 +1011,7 @@ export default function Home() {
                             </div>
                             <div className="short wow fadeInUp" data-wow-duration="1s">
                                 <div className="left">
-                                    <span><a
-                                        href="mailto:info@nurayyildiz.com"><span
-                                            className="__cf_email__"
-                                            data-cfemail="7b12151d14161a021a550f141515123b1c161a121755181416">[info@nurayyildiz.com]</span></a><img
-                                            className="svg" src="img/svg/vector3.svg" alt="" /></span>
+                                    <span><a href="tel:+905056423434"><span className="__cf_email__" data-cfemail="7b12151d14161a021a550f141515123b1c161a121755181416">0505 642 34 34</span></a><img className="svg" src="img/svg/vector3.svg" alt="" /></span>
                                 </div>
                                 <div className="right">
                                     <div className="social">
@@ -1049,7 +1043,7 @@ export default function Home() {
 
 
                 <div className="progressbar">
-                    <a href="#"><span className="text">To Top</span></a>
+                    <a href="#"><span className="text">Başa Dön</span></a>
                     <div className="social">
 
                     </div>
@@ -1062,7 +1056,7 @@ export default function Home() {
                             <div className="animated infinite zoomIn ph-circle"></div>
                             <div className="animated infinite pulse ph-circle-fill"></div>
                             <div className="animated infinite tada ph-img-circle">
-                                <svg xmlns="http://www.w3.org/2000/svg" className="telefon_ikon" width="60 !important" height="60" viewBox="0 0 24 24" stroke-width="1.5" stroke="white" fill="white" stroke-linecap="round" stroke-linejoin="round">
+                                <svg xmlns="http://www.w3.org/2000/svg" className="telefon_ikon" width="60 !important" height="60" viewBox="0 0 24 24" strokeWidth="1.5" stroke="white" fill="white" strokeLinecap="round" strokeLinejoin="round">
                                     <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
                                     <path d="M5 4h4l2 5l-2.5 1.5a11 11 0 0 0 5 5l1.5 -2.5l5 2v4a2 2 0 0 1 -2 2a16 16 0 0 1 -15 -15a2 2 0 0 1 2 -2"></path>
                                     <path d="M15 7a2 2 0 0 1 2 2"></path>

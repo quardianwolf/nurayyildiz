@@ -573,7 +573,6 @@ h6 {
 .tonni_tm_hero .welcome {
     display: inline-block;
     font-size: 18px;
-    text-transform: uppercase;
     position: relative;
     margin-bottom: 60px
 }
@@ -1124,7 +1123,7 @@ h6 {
 .tonni_tm_service .service_list ul li .title h3 {
     font-weight: 600;
     color: #002a3a;
-    font-size: 20px;
+    font-size: 18px;
     margin-bottom: 4px
 }
 
@@ -4530,4 +4529,15 @@ width: 100%;
   }
   .tonni_tm_service .service_list ul li .title:hover{
     color: #86756C;
+  }
+  #news{
+    display: none;
+  }
+  @media screen and (max-width: 480px) {
+    #JQ-hemen_randevual{
+        display: none;
+    }
+    #JQ-hemen_randevual_2{
+        display: none;
+    }
   }
